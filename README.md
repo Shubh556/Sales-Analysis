@@ -7,7 +7,7 @@ This project involves the analysis of sales data from multiple CSV files located
 - `numpy`
 - `pandas`
 - `matplotlib`
-- `seaborn`
+- `os`
 
 ## Steps Performed
 
